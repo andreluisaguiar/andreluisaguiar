@@ -44,6 +44,10 @@ Trabalho principalmente com **PHP e Laravel**, construindo sistemas web e també
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreluisaguiar&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreluisaguiar/andreluisaguiar/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
 <h3>Onde me encontrar</h3>
 
 <p>
