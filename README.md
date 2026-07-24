@@ -1,32 +1,61 @@
-# Readme
+<h1 align="center">Olá, eu sou o André Aguiar 👋</h1>
 
-<div>
-  <a href="https://github.com/andreluisaguiar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreluisaguiar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluisaguiar&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
+<p align="center">
+  <strong>Desenvolvedor PHP/Laravel</strong> focado em construir soluções web escaláveis, organizadas e centradas no usuário.
+</p>
+
+---
+
+### 👨‍💻 Sobre mim
+
+Sou desenvolvedor de software, atualmente trabalhando na **Secretaria de Estado da Saúde (SES-MA)**.
+
+Trabalho principalmente com **PHP e Laravel**, construindo sistemas web e também explorando desenvolvimento front-end moderno com React.
+
+- 🔭 Atualmente trabalhando com **Laravel, React e PostgreSQL**
+- 🌱 Estudando novas ferramentas e boas práticas em desenvolvimento web
+- 👯 Aberto a colaborar em projetos web e open-source
+
+---
+
+<h3>Tecnologias que uso</h3>
+
+<p>
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreluisaguiar&theme=tokyonight" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreluisaguiar&theme=tokyonight" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
-  <img align="center" alt="Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreluisaguiar&theme=tokyonight"/>
+</p>
 
-<br>
+<h3>Onde me encontrar</h3>
 
-<div> 
-  <a href="mailto:andreluisaguiar2000@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+<p>
+  <a href="https://github.com/andreluisaguiar" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/andr%C3%A9-luis-aguiar-796977191/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/andreaguiarr_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+
+  <a href="mailto:al.aguiarn@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
